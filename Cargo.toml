@@ -34,7 +34,7 @@ quote = "0.6"
 nightly = ["proc-macro"]
 
 proc-macro = []
-default = ["proc-macro"]
+default = []
 
 [badges]
 travis-ci = { repository = "alexcrichton/proc-macro2" }
